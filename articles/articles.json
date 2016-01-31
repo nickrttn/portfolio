@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "title": "Data modeling",
+      "date": "2016-01-28",
+      "filename": "data-modeling.md",
+      "slug": "data-modeling"
+    },
+    {
+      "title": "Week of Food",
+      "date": "2016-01-19",
+      "filename": "week-of-food.md",
+      "slug": "week-of-food"
+    },
+    {
+      "title": "Klungel Jungle",
+      "date": "2016-01-13",
+      "filename": "project4.md",
+      "slug": "klungel-jungle"
+    },
+    {
+      "title": "Rendezvous",
+      "date": "2015-06-24",
+      "filename": "rendezvous.md",
+      "slug": "rendezvous.md"
+    }
+  ]
+}

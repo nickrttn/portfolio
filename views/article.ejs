@@ -1,0 +1,9 @@
+<%- include layout/head %>
+  <section class="portfolio-item">
+    <article class="article">
+      <header><h2><%= title %></h2></header>
+      <footer><p><%= date %></p></footer>
+      <%- marked(body) %>
+    </article>
+  </section>
+<%- include layout/foot %>

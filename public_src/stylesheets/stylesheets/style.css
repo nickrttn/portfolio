@@ -1,0 +1,103 @@
+@font-face {
+  font-family: 'Calluna';
+  src: url("/fonts/calluna/Calluna-Regular-webfont.eot");
+  src: url("/fonts/calluna/Calluna-Regular-webfont.eot?#iefix") format("embedded-opentype"), url("/fonts/calluna/Calluna-Regular-webfont.woff2") format("woff2"), url("/fonts/calluna/Calluna-Regular-webfont.woff") format("woff"), url("/fonts/calluna/Calluna-Regular-webfont.ttf") format("truetype"), url("/fonts/calluna/Calluna-Regular-webfont.svg#callunaregular") format("svg");
+  font-feature-settings: 'clig', 'liga', 'kern', 'cont';
+  font-style: normal;
+  font-variant: common-ligatures contextual;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Fira Sans';
+  src: url("/fonts/fira-sans/FiraSans-Bold.eot");
+  src: url("/fonts/fira-sans/FiraSans-Bold.eot?#iefix") format("embedded-opentype"), url("/fonts/fira-sans/FiraSans-Bold.woff2") format("woff2"), url("/fonts/fira-sans/FiraSans-Bold.woff") format("woff"), url("/fonts/fira-sans/FiraSans-Bold.ttf") format("truetype");
+  font-feature-settings: 'clig', 'liga', 'kern', 'cont';
+  font-style: normal;
+  font-variant: common-ligatures contextual;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Fira Mono';
+  src: url("/fonts/fira-mono/FiraMono-Regular.eot");
+  src: url("/fonts/fira-mono/FiraMono-Regular.eot?#iefix") format("embedded-opentype"), url("/fonts/fira-mono/FiraMono-Regular.woff2") format("woff2"), url("/fonts/fira-mono/FiraMono-Regular.woff") format("woff"), url("/fonts/fira-mono/FiraMono-Regular.ttf") format("truetype");
+  font-feature-settings: 'clig', 'liga', 'kern', 'cont';
+  font-style: normal;
+  font-variant: common-ligatures contextual;
+  font-weight: 400;
+}
+
+/* Typography */
+
+body {
+  /*background: hsl(329, 61%, 54%);*/
+  color: hsla(0, 0%, 20%, 1);
+  font: 400 1.25em/1.5 'Calluna', Georgia, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Fira Sans', -apple-system, 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 700;
+  line-height: 1;
+  margin: .5em 0;
+}
+
+h1 {
+  font-size: 4.209em;
+  margin-bottom: 0;
+}
+
+h1 span {
+  font-size: 1.333rem;
+  color: hsla(0, 0%, 55%, 1);
+}
+
+h2 {
+  font-size: 3.157em;
+}
+
+h3 {
+  font-size: 2.369em;
+}
+
+h4 {
+  font-size: 1.777em;
+}
+
+h5 {
+  font-size: 1.333em;
+}
+
+h6 {
+  font-size: 1em;
+  font-variant: small-caps;
+  -webkit-font-feature-settings: 'smcp';
+          font-feature-settings: 'smcp';
+}
+
+code, pre {
+  font-family: 'Fira Mono', Menlo, monospace;
+  background: #efefef;
+  padding: .25em;
+  border-radius: .25em;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.main-header {
+  max-width: calc(100vw / 5 * 3);
+  background: palegreen;
+  
+}
+
+.full-width {
+  max-width: calc(100vw / 5 * 3);
+  background: hsl(329, 61%, 54%);
+}
+
+/*# sourceMappingURL=style.css.map */
+
+/*# sourceMappingURL=style.css.map */
