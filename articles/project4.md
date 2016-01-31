@@ -39,7 +39,9 @@ For us, the pages where we were most likely to both fulfill our business goals a
 
 The Core Model templates are usually filled in workshops where you get around 10 - 14 stakeholders and employees from all layers of a company to help you fill them in. Our client didn't have employees. So we did it for him. I walked my team through the workshop for each of our core pages.
 
-[INSERT CORE MODEL SKETCHES]
+![These pictures show the core model in use.](/images/articles/kj_core-model.png)
+
+*I'm sorry for the shitty pictures. These were taken using a potato.*
 
 The Core Model helped us understand the content and give meaning to it, giving us the possibility to sketch wireframes with far more confidence. Suddenly, there was clarity. We knew what content had to go where on the page. We just had to find the best way to present it and allow our target audience to interact with it.
 
@@ -47,11 +49,17 @@ The Core Model helped us understand the content and give meaning to it, giving u
 
 We went through several iterations of sketched wireframes, user testing each iteration with around 4-5 users along the way. Once we were convinced the layout of our content worked, we hopped into Sketch.
 
-[INSERT WIREFRAMES]
+**An example of a wireframe**
+
+![An example of a wireframe](/images/articles/kj_wireframe.png)
 
 Before we started designing we sat with our client and talked about visual design direction. He felt inspired by the contemporary industrial interior design movement and asked us to look into translating that atmosphere into a visual design. It took me and our visual designer a couple of iterations to get the feeling right, but in the end, I believe we hit the mark. You can see the results of the visual designs below.
 
-[INSERT 2 VISUAL DESIGNS]
+**Product page**
+![A visual of the product page for Klungel JUngle](/images/articles/kj_visual_product.png)
+
+**Designer page**
+![A visual of the designer page for Klungel JUngle](/images/articles/kj_visual_designer.png)
 
 ### Front-end
 
