@@ -1,7 +1,8 @@
+  <p>I use Piwik analytics to track visitors. This analytics package respects your DoNotTrack settings and will not track you if you have it enabled. I also anonymize IP addresses in stored data.</p>
   <script src="/javascripts/client.js"></script>
-  <!-- Piwik -->
   <script type="text/javascript">
     var _paq = _paq || [];
+    _paq.push(["setDoNotTrack", true]);
     _paq.push(['trackPageView']);
     _paq.push(['enableLinkTracking']);
     (function() {
@@ -13,7 +14,6 @@
     })();
   </script>
   <noscript><p><img src="//piwik.nickrttn.me/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
-  <!-- End Piwik Code -->
 </body>
 </html>
 
