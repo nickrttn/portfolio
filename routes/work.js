@@ -2,6 +2,7 @@
 
 const express = require('express');
 const fs = require('fs');
+const path = require('path');
 const marked = require('marked');
 const router = express.Router();
 
@@ -17,7 +18,8 @@ router.get('/', (req, res, next) => {
 
 router.get('/:article', function(req, res, next) {
   findBySlug(articles, req.params.article, (article) => {
-    let fn = './articles/' + article.filename;
+    let fn = path.join(__dirname, '../articles/' + article.filename);
+    console.log(fn);
     fs.readFile(fn, (err, data) => {
       if (err) next();
       res.render('article', {
