@@ -274,6 +274,7 @@ strong {
 }
 
 .feed {
+  margin: 1.5em 0;
   padding: 0 1.5em;
 }
 
@@ -372,17 +373,13 @@ strong {
     max-width: 30%;
   }
 
-  .feed {
-    margin-top: 3em;
-  }
-
   .excerpt h3 {
     margin-bottom: .25em;
   }
 
   .excerpt .meta {
     margin-top: 0;
-    margin-bottom: 4em;
+    margin-bottom: .5em;
   }
 }
 
@@ -422,10 +419,6 @@ strong {
     -webkit-flex: 1 1 auto;
         -ms-flex: 1 1 auto;
             flex: 1 1 auto;
-  }
-
-  .feed {
-    margin-top: 0;
   }
 }
 

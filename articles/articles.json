@@ -2,24 +2,28 @@
   "articles": [
     {
       "title": "Data modeling",
+      "tagline": "Database model for a zero-effort meal planning application in SQL as well as NoSQL.",
       "date": "2016-01-28",
       "filename": "data-modeling.md",
       "slug": "data-modeling"
     },
     {
       "title": "Week of Food",
+      "tagline": "Node.js development of an application that makes weekly meal planning a zero-effort affair.",
       "date": "2016-01-19",
       "filename": "week-of-food.md",
       "slug": "week-of-food"
     },
     {
       "title": "Klungel Jungle",
+      "tagline": "Project management and front-end code for an eCommerce project.",
       "date": "2016-01-13",
       "filename": "project4.md",
       "slug": "klungel-jungle"
     },
     {
       "title": "Rendezvous",
+      "tagline": "Creating meaningful offline social interaction through iBeacons.",
       "date": "2015-06-24",
       "filename": "rendezvous.md",
       "slug": "rendezvous.md"
